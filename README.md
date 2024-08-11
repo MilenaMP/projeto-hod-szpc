@@ -1,6 +1,6 @@
 # 🐉 House of the Dragon - Carrossel Interativo
 Este projeto é um carrossel interativo inspirado na série House of the Dragon da HBO. Os usuários podem navegar entre diferentes imagens e informações relacionadas à série usando botões no carrossel.
-Este projeto foi realizado com [DEV EM DOBRO](https://github.com/devEmDobro) com os instrutores Ricardo Dias e Roberto Dias através do evento SEMANA DO ZERO AO PROGRAMADOR CONTRATADO - Do dia 5 a 11 agosto ás 20 h. 
+Este projeto foi realizado com o [DEV EM DOBRO](https://github.com/devEmDobro) com os instrutores Ricardo Dias e Roberto Dias através do evento SEMANA DO ZERO AO PROGRAMADOR CONTRATADO - Do dia 5 a 11 agosto ás 20 h. 
 
 ## 📸 Demonstração
 ![Captura de tela 2024-08-11 124917](https://github.com/user-attachments/assets/005167d9-bf64-427e-a8fb-4bbd48448b94)
